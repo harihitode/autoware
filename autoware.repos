@@ -19,8 +19,8 @@ repositories:
   # universe
   universe/autoware.universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware.universe.git
-    version: main
+    url: git@github.com:harihitode/autoware.universe.git
+    version: hornet
   universe/tmp/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
