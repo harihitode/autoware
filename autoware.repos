@@ -39,8 +39,8 @@ repositories:
     version: tier4/main
   universe/vendor/ndt_omp:
     type: git
-    url: https://github.com/tier4/ndt_omp.git
-    version: tier4/main
+    url: git@github.com:harihitode/ndt_omp.git
+    version: hornet
   universe/vendor/pointcloud_to_laserscan:
     type: git
     url: https://github.com/tier4/pointcloud_to_laserscan.git
