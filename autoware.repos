@@ -40,6 +40,10 @@ repositories:
   universe/vendor/ndt_omp:
     type: git
     url: git@github.com:harihitode/ndt_omp.git
+    version: tier4/main
+  universe/vendor/ndt_ocl:
+    type: git
+    url: git@github.com:harihitode/ndt_omp.git
     version: hornet
   universe/vendor/pointcloud_to_laserscan:
     type: git
