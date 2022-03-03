@@ -41,6 +41,7 @@ repositories:
     type: git
     url: git@github.com:harihitode/ndt_omp.git
     version: tier4/main
+    # version: origin_plus_logger
   universe/vendor/ndt_ocl:
     type: git
     url: git@github.com:harihitode/ndt_omp.git
